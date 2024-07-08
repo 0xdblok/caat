@@ -19,7 +19,7 @@ export default function Footer() {
             height={30}
           />
         </a>
-        <a href="">
+        <a href="t.me/dumbcatonsolana">
           {" "}
           <Image
             className="lg:w-[40px] lg:h-[40px]"
